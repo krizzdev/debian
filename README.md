@@ -1,0 +1,1 @@
+# Dieses Repository basiert auf dem Repository von https://github.com/drewgrif/sway ist aber stark an meine Bedürfnisse angepasst
